@@ -1,2 +1,2 @@
 # imports-and-exports-analysis
-[Final_Imports_Exports_Analysis.xlsx](https://github.com/user-attachments/files/22705312/Final_Imports_Exports_Analysis.xlsx)
+<img width="714" height="452" alt="Screenshot 2025-07-02 222053" src="https://github.com/user-attachments/assets/14fb5d01-ca6b-4350-99b2-10b93d5e4582" />
