@@ -1,6 +1,7 @@
 
 
 🌍 Imports & Exports Analysis: Unlocking Global Trade Secrets
+
   What’s the Scoop?
 This project dives deep into a hefty dataset of over 300 international import/export transactions across categories like electronics, office gadgets, and home essentials. It’s packed with juicy details — quantities, prices, who’s shipping from where, where it’s headed, and what it costs to get there (both in dollars and days).
 
